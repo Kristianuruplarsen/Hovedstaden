@@ -4,11 +4,7 @@ permalink: /booking/
 ---
 
 
-{% include navigation.html %}
 
-## Her booker du lokaler i solidaritetshuset
-lalalal
-lalala
+## Booking af lokaler i solidaritetshuset
 
-
-alalal
+Hvis du vil booke et lokale skal du kontakte husgruppen, enten via facebook eller mail. 
