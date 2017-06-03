@@ -3,9 +3,7 @@
 ---
 
 
-...
 {% include navigation.html %}
-...
 
 ## Vekommen
 
