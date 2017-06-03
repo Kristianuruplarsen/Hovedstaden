@@ -1,10 +1,8 @@
 ---
+layout: page
 title: SUF Hovedstaden
-subtitle: Indsending af mødereferater
-header-includes:
-  - project-name: SUF Hovedstaden
-  - project-tagline: Referatsystem
-
+tagline: Referatsystem
+description: Nyt og forbedret referatsystem til SUF Hovedstaden
 navbar:
   title: "Forside"
   left:
