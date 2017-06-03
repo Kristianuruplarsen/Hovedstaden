@@ -1,6 +1,9 @@
 ---
 title: SUF Hovedstaden
 subtitle: Indsending af mødereferater
+header-includes:
+  - project-name: SUF Hovedstaden
+  - project-tagline: Referatsystem
 ---
 
 ## Vekommen
