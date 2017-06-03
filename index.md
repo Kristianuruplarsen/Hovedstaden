@@ -1,7 +1,7 @@
 ---
 #layout: page
 ---
-{% include footer.html %}
+{% include nav.html %}
 
 ## Vekommen
 
