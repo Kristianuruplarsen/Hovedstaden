@@ -4,6 +4,13 @@ subtitle: Indsending af mødereferater
 header-includes:
   - project-name: SUF Hovedstaden
   - project-tagline: Referatsystem
+
+navbar:
+  title: "Forside"
+  left:
+    - text: "booking"
+      href: booking.html
+
 ---
 
 ## Vekommen
