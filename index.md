@@ -3,12 +3,6 @@ layout: page
 title: SUF Hovedstaden
 tagline: Referatsystem
 description: Nyt og forbedret referatsystem til SUF Hovedstaden
-navbar:
-  title: "Forside"
-  left:
-    - text: "booking"
-      href: booking.html
-
 ---
 
 ## Vekommen
