@@ -1,8 +1,7 @@
 ---
 #layout: page
 title: SUF Hovedstaden
-tagline: Referatsystem
-description: Nyt og forbedret referatsystem til SUF Hovedstaden
+description: asd
 ---
 
 ## Vekommen
