@@ -1,9 +1,8 @@
 ---
 #layout: page
-menu: hjem
-permalink: /
 ---
 
+{% include header.html %}
 
 {% include navigation.html %}
 
