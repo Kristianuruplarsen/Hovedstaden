@@ -1,7 +1,6 @@
 ---
 #layout: page
-title: SUF Hovedstaden
-description: asd
+
 ---
 
 ## Vekommen
