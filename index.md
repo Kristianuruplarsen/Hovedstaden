@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-
+{% include navigation.html %}
 
 ## Vekommen
 
