@@ -2,7 +2,6 @@
 #layout: page
 ---
 
-{% include page-header.html %}
 
 {% include navigation.html %}
 
