@@ -3,7 +3,10 @@
 - title: Home
   url: /
 
-- title: Group of Things
+- title: Referatsystem
+  url: /referater/
+
+- title: Booking
   url: /booking/
 
 #  sublinks:

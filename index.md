@@ -7,6 +7,4 @@
 
 ## Vekommen
 
-Udfyld dit referat herunder, og indsend når jeres møde er færdigt.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePfyZikvHGQ6rinKFNNS2zMttK-3rt8iMNZ4YprJx4Cp_zXA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Indlæser...</iframe>
+Med vores nye hjemmeside kan vi nemt dokumentere aktivitetstimer i foreningen, og det er garanteret at vores referater altid er til at finde igen.
