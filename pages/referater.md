@@ -1,10 +1,10 @@
 ---
 #layout: page
+menu: referater
 permalink: /referater/
 ---
 
 
-{% include navigation.html %}
 
 ## Referatsystem
 

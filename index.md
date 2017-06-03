@@ -1,9 +1,11 @@
 ---
 #layout: page
+menu: hjem
+permalink: /
 ---
 
 
-{% include navigation.html %}
+
 
 ## Vekommen
 
